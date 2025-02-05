@@ -27,8 +27,7 @@ A simple **User Management App** built with **Node.js**, **Express**, **MySQL**,
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/user-management-app.git
-cd user-management-app
+https://github.com/Soumyadipkaran/MySql-Nodejs.git
 ```
 
 ### 2. Install Dependencies
@@ -56,7 +55,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     database: 'sdk_app',
-    password: 'your_password'
+    password: '**********'
 });
 ```
 
